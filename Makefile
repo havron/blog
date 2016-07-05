@@ -18,7 +18,7 @@ blog_github:
 	git push
 
 full_github: blog_github
-	cd ~/public_web/
-	git add -A
-	git commit -m "Rebuilt site blog"
+	@ cd ~/public_web/ && \
+	git add -A \
+	git commit -m "Rebuilt site blog" \
 	git push
