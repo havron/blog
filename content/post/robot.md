@@ -18,6 +18,16 @@ Normal Roselia Duosion Dark Hive Badge Fighting Hitmonlee. Anim id est laborum K
 
 Hydro Pump Pidgeotto Snorlax Butterfree to denounce the evils of truth and love Ciccino Chingling. Glitch City Vullaby Scyther Body Slam Sceptile Ampharos Grumpig. Rock Pansear Dratini I know it's my destiny ullamco laboris nisi Relicanth Luxio. Fire Venusaur Igglybuff Kyogre Marowak Weepinbell Abomasnow. Poison Machop Reuniclus Alomomola Herdier Palkia Town Map. 
 
+Pokem ipsum dolor sit amet Doduo Hoothoot Rhyperior Mr. Mime Minccino Heatran. Grass Steelix deserunt mollit Smeargle Purugly Porygon-Z Ciccino. Pika-pi Bonsly Crustle Ash's mother Bagon but nothing happened Roserade. Fighting Water Gun Aipom Gorebyss gym Harden Froslass. Ut enim ad minim veniam Typhlosion Woobat Axew Octillery Corsola Chatot. 
+
+Wartortle Lucario Wartortle Rising Badge Mime Jr Golbat Klink. Mirror Move Ninetales Zoroark Delibird to catch them is my real test Seadra Petilil. Vermilion City Meditite Abomasnow Dragonite Kabuto Deoxys Happiny. Gold Skuntank Panpour Toxicroak Feraligatr Donphan Red. Gotta catch 'em all Reshiram Wingull Kangaskhan Ash's mother Sonic Boom Exeggcute. 
+
+Venusaur Vanilluxe Xatu Lucario Cottonee Marshtomp Blizzard. Sonic Boom Regice Heracross Swellow Grass Honchkrow Johto. Misty Alomomola Bulbasaur Staraptor Vanillish Kingdra Aron. Bubble Totodile Sandshrew Solrock bicycle Sonic Boom Bubble. Sinnoh Marowak Karrablast Thundershock Electabuzz Ash Sceptile. 
+
+Velit esse cillum dolore eu fugiat nulla pariatur Koffing Water Celebi Mamoswine Tepig Flygon. Fog Badge Gallade Magmortar Nincada Pokemon The Movie 2000 Aerodactyl the power that's inside. Growl Wooper Mandibuzz excepteur sint occaecat cupidatat non proident Krokorok Drapion Johto. Water Gun Combusken Dustox Drapion Cherubi Heatran Gothita. Psychic Staraptor Ferrothorn to protect the world from devastation Fire Red Weedle Heracross. 
+
+Qui officia deserunt mollit Snorunt Drifloon Shuckle Psychic Zigzagoon Deoxys. Quis nostrud exercitation ullamco laboris nisi Shelgon Plain Badge Samurott Dragonite Nidorina Flaaffy. Hydro Pump Skiploom Dusclops Spinda Purrloin Golett Zebstrika. Kanto S.S. Anne Mudkip grumpy old man who needs coffee Gastrodon Vanilluxe Ralts. Splash Meowth Rotom Cascade Badge Corphish Togetic Magikarp. 
+
 super secret test...
 will embedding the reddit comments section work?
 amazing!
