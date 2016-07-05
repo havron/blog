@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+    <div class="container">
+<section id="main">
+<div>
+<h1 id="title"><span class="glyphicon glyphicon-edit"></span> {{ .Title }}</h1>
+<ul class="list-unstyled">
+{{ $data := .Data }}
+{{ range $key, $value := .Data.Terms.Alphabetical }}
+<li><span class="glyphicon glyphicon-edit"></span> <a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}">{{ $value.Name }}</a> [{{ $value.Count }}]</li>
+{{ end }}
+</ul>
+</div>
+</section>
+        {{ partial "container-footer.html" . }}
+     </div>
+{{ partial "footer.html" . }}

@@ -1,0 +1,49 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+    <div class="container">
+        <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+<ul>
+{{ $data := .Data }}
+{{ range $key, $value := .Data.Terms }}
+<li><a href="{{ $data.Plural }}/{{ $key | urlize }}">{{ $key }}</a> {{ len $value }}</li>
+{{ end }}
+</ul>
+<span class="lead">{{ .Date.Format "Monday, 2 January 2006" }}</span>
+
+<br>
+        {{ if .Params.authors }} 
+        <strong><a href="/authors/" style="color:black">author{{ if gt (len .Params.authors) 1 }}s{{ end }}</a><span class="glyphicon glyphicon-edit"></span> </strong>{{ range $index, $author := .Params.authors }}{{ if gt $index 0 }}, {{ end }}<a href="/authors/{{ . | urlize }}">{{ . }}</a>
+        {{ end }} 
+        |
+        {{ end }}
+
+        {{ if .Params.tags }} 
+         <strong><a href="/tags/" style="color:black">tag{{ if gt (len .Params.tags) 1 }}s</a><span class="glyphicon glyphicon-tags"></span> {{ else }}</a><span class="glyphicon glyphicon-tag"></span> {{ end }} </strong> {{ range $index, $tag := .Params.tags }}{{ if gt $index 0 }}, {{ end }}<a href="/tags/{{ . | urlize }}">{{ . }}</a>
+        {{ end }} 
+        |
+        {{ end }}
+       
+       {{ if .Params.categories }} 
+         <strong><a href="/categories/" style="color:black">categor{{ if gt (len .Params.categories) 1 }}ies{{ else }}y{{ end }}</a><span class="glyphicon glyphicon-book"></span> </strong>{{ range $index, $category := .Params.categories }}{{ if gt $index 0 }}, {{ end }}<a href="/categories/{{ . | urlize }}">{{ . }}</a>
+        {{ end }} 
+        | 
+        {{ end }}
+<strong>est read <span class="glyphicon glyphicon-time"></span> {{ .ReadingTime }}m</strong>
+
+
+<ul>
+{{ $data := .Data }}
+{{ range $key, $value := .Data.Terms }}
+<li><a href="{{ $data.Plural }}/{{ $key | urlize }}">{{ $key }}</a> {{ len $value }}</li>
+{{ end }}
+</ul>
+<div class="post">
+{{ .Content }}
+</div>
+
+        {{ partial "container-footer.html" . }}
+ 
+     </div>
+     
+{{ partial "footer.html" . }}

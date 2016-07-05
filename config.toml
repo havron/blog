@@ -1,0 +1,14 @@
+baseurl = "https://havron.xyz/blog/"
+RelativeURLs = "true"
+canonifyURLs = "true"
+languageCode = "en-us"
+title = "enthusiasm, pensiveness, and xyz"
+theme = "hugo-bootswatch"
+[taxonomies]
+tag = "tags"
+category = "categories"
+author = "authors"
+[permalinks]
+# Change the permalink format for the 'post' content type.
+# This defines how your folder is structured
+post = "/:year/:month/:title/"
