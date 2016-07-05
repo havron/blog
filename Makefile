@@ -1,10 +1,22 @@
-THEME = hugo-bootswatch
+.PHONY: clean html dev
+THEME=hugo-bootswatch
 
-html:
-	# possible execution call to reddit automation script
-	hugo --theme=$(THEME)
 
-develop:
+dev:
 	hugo server --theme=$(THEME) --watch
 
-.PHONY: html clean develop
+github_test:
+	# possible execution call to reddit automation script
+	git add -A
+	git commit -m "Rebuilt site"
+	git push
+
+github:
+	# possible execution call to reddit automation script
+	rm -rf public/
+	hugo --theme=$(THEME)
+	rm -rf ~/public_web/blog/*
+	cp -r public/* ~/public_web/blog/
+	git add -A
+	git commit -m "Rebuilt site"
+	git push
