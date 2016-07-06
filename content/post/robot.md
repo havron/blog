@@ -4,6 +4,9 @@ categories = ["not", "a", "real", "post"]
 date = "2016-07-05T06:31:50-04:00"
 tags = ["pay", "no", "attention", "to", "the", "robot!"]
 title = "Test the blog! Will be removed?"
+primary_author_url = "https://havron.xyz/about"
+reddit_comment_code = "4rc9vg"
+reddit_underscored_name = "test_the_blog_will_be_removed"
 +++
 Wow, a reader already? Sorry, I'm not sam, I am an automated post generator. 
 Just getting that first post up to the CDN! Run along, now, reader, to some other depths of the web.
@@ -31,5 +34,3 @@ Qui officia deserunt mollit Snorunt Drifloon Shuckle Psychic Zigzagoon Deoxys. Q
 super secret test...
 will embedding the reddit comments section work?
 amazing!
-
-{{<reddit 4rc9vg test_the_blog_will_be_removed>}}
