@@ -2,9 +2,10 @@
 THEME=hugo-bootswatch
 # NOTE: the two github targets assume a specific development environment!
 # Namely, that this repo is located at ~/blog and that the public_web repo 
-# is located at ~/public_web in the filesystem. the html produced by Hugo 
-# is intended to be synchronized with the public_web repo, 
-# thus all of the hoopla with removing and copying files and whatnot.
+# is located at ~/public_web in the filesystem of the dev environment. 
+# the html produced by Hugo is intended to be synchronized 
+# with the public_web repo's /blog directory, thus all 
+# of the hoopla with removing and copying files and whatnot.
 dev:
 	hugo server --theme=$(THEME) --watch
 

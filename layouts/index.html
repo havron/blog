@@ -2,16 +2,16 @@
 {{ partial "navbar.html" . }}
 
     <div class="container">
-        <h1>recently on <i>epx</i> <span class="glyphicon glyphicon-fire"></span></h1>
+        <h1>{{ .Title }}</h1>
         {{ range .Data.Pages }}
         <div>
             <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-            <span class="lead">{{ .Date.Format "Monday, 2 January 2006" }}</span>
+            <span class="lead">{{ .Date.Format "Mon 2 January 2006" }}</span>
 
 {{ partial "taxomonies.html" . }}
-            <p>{{ .Summary }}</p>
+            <p>{{ .Summary }}...</p>
             
-            <a href="{{ .Permalink }}"><button type="button" class="btn btn-default"><span class="glyphicon glyphicon-circle-arrow-right"></span> see more</button></a>
+            <a href="{{ .Permalink }}"><button type="button" class="btn btn-default"><span class="glyphicon glyphicon-circle-arrow-right"></span> more</button></a>
         </div>
         {{ end }}
 

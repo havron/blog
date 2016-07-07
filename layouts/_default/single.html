@@ -9,7 +9,7 @@
 <li><a href="{{ $data.Plural }}/{{ $key | urlize }}">{{ $key }}</a> {{ len $value }}</li>
 {{ end }}
 </ul>
-<span class="lead">{{ .Date.Format "Monday, 2 January 2006" }}</span>
+<span class="lead">{{ .Date.Format "Mon 2 January 2006" }}</span>
 
 {{ partial "taxomonies.html" . }}
 
@@ -23,7 +23,7 @@
 {{ .Content }}
 </div>
 
-<a href="{{ .Params.primary_author_url }}" target="_blank"><span class="glyphicon glyphicon-envelope"></span> &nbsp;contact {{ index .Params.authors 0 }}, the primary author of this post</a>
+<a href="{{ .Params.primary_author_url }}" target="_blank"><span class="glyphicon glyphicon-envelope"></span> &nbsp;{{ index .Params.authors 0 }} (primary author)</a>
 {{ partial "reddit.html" . }}
 
         {{ partial "container-footer.html" . }}
