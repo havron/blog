@@ -1,7 +1,9 @@
       .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
       color: #fff;  /*Sets the text hover color on navbar*/
       }
-
+      .navbar-default .navbar-brand {
+        color: #777;
+      }
       .navbar-default {
         background-color: #3c2f2f;
         border-color: #be9b7b;
