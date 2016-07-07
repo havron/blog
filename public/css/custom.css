@@ -1,3 +1,5 @@
+      a {color: #be9b7b;}
+      a:hover {color: #854442;}
       .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
       color: #fff;  /*Sets the text hover color on navbar*/
       }
