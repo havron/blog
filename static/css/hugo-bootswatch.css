@@ -11,4 +11,9 @@
         color: #000000;
         background-color: #d2d2d2;
         padding-top:50px;
+        padding-bottom:50px;
+      }
+
+      footer {
+        padding-top:50px;
       }
