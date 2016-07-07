@@ -25,6 +25,17 @@
       .navbar-default .navbar-toggle {
            border-color: #777;
       }
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #DDD;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #CCC;
+        }
+
+
+
       .navbar-default {
         background-color: #3c2f2f;
         border-color: #be9b7b;
