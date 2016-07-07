@@ -7,6 +7,9 @@
       .navbar-default .navbar-nav > li > a {
           color: #777;
        }
+      .navbar-default .navbar-toggle {
+           border-color: #777;
+      }
       .navbar-default {
         background-color: #3c2f2f;
         border-color: #be9b7b;
