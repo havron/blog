@@ -4,14 +4,14 @@
       
       .navbar-default .navbar-brand:hover,
       .navbar-default .navbar-brand:focus {
-          color: #5E5E5E;
+          color: #5E5E5F;
           }
 
       .navbar-default .navbar-brand {
-        color: #777;
+        color: #777777;
       }
       .navbar-default .navbar-nav > li > a {
-          color: #777;
+          color: #777777;
        }
 
 .navbar-default .navbar-nav > .active > a, 
@@ -23,7 +23,7 @@
 
 
       .navbar-default .navbar-toggle {
-           border-color: #777;
+           border-color: #777777;
       }
 
 .navbar-default .navbar-toggle:hover,
@@ -42,8 +42,8 @@
                }
 
 .navbar-default .navbar-nav > .dropdown > a .caret {
-    border-top-color: #777;
-        border-bottom-color: #777;
+    border-top-color: #777777;
+        border-bottom-color: #777777;
         }
         .navbar-default .navbar-nav > .dropdown > a:hover .caret,
         .navbar-default .navbar-nav > .dropdown > a:focus .caret {
