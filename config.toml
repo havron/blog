@@ -8,8 +8,15 @@ theme = "hugo-bootswatch"
 tag = "tags"
 category = "categories"
 author = "authors"
+# hack by year sorting... ;)
+2016 = "2016"
+2017 = "2017"
 [permalinks]
 # Change the permalink format for the 'post' content type.
 # This defines how your folder is structured
 # post = "/:year/:month/:title/"
 post = "/:year/:title/"
+copyright = "Unless otherwise specified by the author, this work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License."
+[author]
+name = "Samuel Havron"
+

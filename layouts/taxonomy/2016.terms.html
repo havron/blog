@@ -1,0 +1,21 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+    <div class="container">
+<section id="main">
+<div>
+        <div class="col-sm-7">
+<h1 style="color: #003366" id="title"><span class="glyphicon glyphicon-time"></span> {{ .Title }}</h1>
+<ul class="list-unstyled">
+    {{ range $value := .Site.Pages.GroupByDate "January 2006" }}
+            {{ $url := (index $value.Pages 0).Node.Date.Format "2006/01" | urlize }}
+                    <li><span class="glyphicon glyphicon-time"></span> <a href="/{{ $url }}">{{ .Key }}</a></li>
+                        {{ end }}
+                        </ul>
+</div>
+</div>
+</section>
+        <div class="col-sm-7">
+        {{ partial "container-footer.html" . }}
+     </div>
+     </div>
+{{ partial "footer.html" . }}

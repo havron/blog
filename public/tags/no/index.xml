@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>No on epx blog</title>
-    <link>https://havron.xyz/blog/tags/no/</link>
-    <description>Recent content in No on epx blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 05 Jul 2016 06:31:50 -0400</lastBuildDate>
-    <atom:link href="https://havron.xyz/blog/tags/no/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Test the blog. Hm...</title>
-      <link>https://havron.xyz/blog/2016/test-the-blog.-hm.../</link>
-      <pubDate>Tue, 05 Jul 2016 06:31:50 -0400</pubDate>
-      
-      <guid>https://havron.xyz/blog/2016/test-the-blog.-hm.../</guid>
-      <description>&lt;p&gt;Sorry, I&amp;rsquo;m not sam, I am an automated post generator.
+<channel>
+<title>No on epx blog</title>
+<link>https://havron.xyz/blog/tags/no/</link>
+<description>Recent content in No on epx blog</description>
+<generator>Hugo -- gohugo.io</generator>
+<language>en-us</language>
+<lastBuildDate>Tue, 05 Jul 2016 06:31:50 -0400</lastBuildDate>
+<atom:link href="https://havron.xyz/blog/tags/no/index.xml" rel="self" type="application/rss+xml" />
+
+<item>
+<title>Test the blog. Hm...</title>
+<link>https://havron.xyz/blog/2016/test-the-blog.-hm.../</link>
+<pubDate>Tue, 05 Jul 2016 06:31:50 -0400</pubDate>
+
+<guid>https://havron.xyz/blog/2016/test-the-blog.-hm.../</guid>
+<description>&lt;p&gt;Sorry, I&amp;rsquo;m not sam, I am an automated post generator.
 Just getting a preliminary post up to the CDN for testing. Run along, now, reader, to some other depths of the web.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Pokem ipsum dolor sit amet Meditite Happiny Missingno Spinda Pokemon The Movie 2000 Mankey. Ice Aerodactyl Flygon Wailord Tail Whip Ice Cobalion. Swift Exeggcute Shieldon Rage Klink Abomasnow Gyarados. Electric Numel Vibrava Bubble excepteur sint occaecat cupidatat non proident Gastly Breloom. Sapphire Strength Nidoran Geodude Raikou Luxio Ultra Ball.&lt;/strong&gt;&lt;/p&gt;
@@ -63,7 +63,7 @@ Body Slam Croconaw Rotom Lairon Boldore Nidoran Officer Jenny. Wartortle Veniped
 will embedding the reddit comments section work?
 amazing.&lt;/p&gt;
 </description>
-    </item>
-    
-  </channel>
+</item>
+
+</channel>
 </rss>

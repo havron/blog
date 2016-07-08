@@ -4,6 +4,7 @@ categories = ["not", "a", "real", "post"]
 date = "2016-07-05T06:31:50-04:00"
 tags = ["pay", "no", "attention", "to", "the", "robot!"]
 title = "Test the blog. Hm..."
+2016 = "07"
 primary_author_url = "https://havron.xyz/about"
 reddit_comment_code = "4rc9vg"
 reddit_underscored_name = "test_the_blog_will_be_removed"
