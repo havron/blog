@@ -11,9 +11,9 @@ reddit_underscored_name = "test_the_blog_will_be_removed"
 Sorry, I'm not sam, I am an automated post generator. 
 Just getting a preliminary post up to the CDN for testing. Run along, now, reader, to some other depths of the web.
 
-Pokem ipsum dolor sit amet Meditite Happiny Missingno Spinda Pokemon The Movie 2000 Mankey. Ice Aerodactyl Flygon Wailord Tail Whip Ice Cobalion. Swift Exeggcute Shieldon Rage Klink Abomasnow Gyarados. Electric Numel Vibrava Bubble excepteur sint occaecat cupidatat non proident Gastly Breloom. Sapphire Strength Nidoran Geodude Raikou Luxio Ultra Ball. 
+**Pokem ipsum dolor sit amet Meditite Happiny Missingno Spinda Pokemon The Movie 2000 Mankey. Ice Aerodactyl Flygon Wailord Tail Whip Ice Cobalion. Swift Exeggcute Shieldon Rage Klink Abomasnow Gyarados. Electric Numel Vibrava Bubble excepteur sint occaecat cupidatat non proident Gastly Breloom. Sapphire Strength Nidoran Geodude Raikou Luxio Ultra Ball.** 
 
-Plain Badge Noctowl Goldeen Walrein Ruby Torchic Charmander. Wing Attack Nidoran Meditite Boldore the power that's inside Shuckle Furret. Anim id est laborum Ariados Marill Machop Alomomola Axew Geodude. Rising Badge Glalie excepteur sint occaecat cupidatat non proident Jumpluff Pokemon The Movie 2000 Dodrio Illumise. Glacier Badge Dark Marsh Badge I'm on the road to Viridian City Timburr Marowak Smoochum. 
+*Plain Badge Noctowl Goldeen Walrein Ruby Torchic Charmander. Wing Attack Nidoran Meditite Boldore the power that's inside Shuckle Furret. Anim id est laborum Ariados Marill Machop Alomomola Axew Geodude. Rising Badge Glalie excepteur sint occaecat cupidatat non proident Jumpluff Pokemon The Movie 2000 Dodrio Illumise. Glacier Badge Dark Marsh Badge I'm on the road to Viridian City Timburr Marowak Smoochum.* 
 
 Yellow Darmanitan Throh Donphan Qwilfish Clamperl Mirror Move. Storm Badge Magikarp used Splash Doduo Teddiursa Munna Voltorb Spinda. Mewtwo Strikes Back Hippowdon Weedle Duskull Dusknoir Emolga surrender now or prepare to fight. Boulder Badge Aggron Omastar Serperior Lapras Litwick Tentacruel. Mineral Badge Venusaur Kecleon Graveler Pokedex Fuchsia City Arbok. 
 
@@ -47,6 +47,7 @@ Thundershock Leaf Green Entei Pokemon Purugly Skarmory Croagunk. Boulder Badge I
 
 Volcano Badge Ice Rage Roselia Quilava Skiploom Zangoose. Dark Kadabra Slowbro Skorupi Rotom Mismagius Solrock. Blizzard Uxie Slowking Viridian City Ninetales Chansey Marsh Badge. Razor Leaf the power that's inside Caterpie Poke Flute Nidoking you teach me and I'll teach you Officer Jenny. Charizard Deino Medicham Hidden Machine Growl Magikarp Corphish. 
 
+Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle of an immense dark sphere, whose upper half was strewn with silver. Looking down into the dark gulf below, I could see a ruddy light streaming through a rift in the clouds.
 Body Slam Croconaw Rotom Lairon Boldore Nidoran Officer Jenny. Wartortle Venipede Fuchsia City Fog Badge Munna Quagsire Plusle. Glitch City Plain Badge Ekans Braviary Dewott Bouffalant Magikarp used Splash. Teleport Miltank Houndoom Furret Sealeo Crustle Pallet Town. Dark Magby Blissey Wormadam Ledyba Machoke Cascade Badge. 
 
 Slash Crobat Archeops Slugma Starly Tyrogue Kecleon. Quis nostrud exercitation ullamco laboris nisi Tyranitar Cubone Sawsbuck Spinarak Krabby Swinub. Anim id est laborum Bastiodon Running Shoes Dome Fossil Watchog Sandile they're comfy and easy to wear. Leech Life Carracosta Officer Jenny Raikou Seadra Dragonite Espeon. Hoenn Body Slam Rhydon Politoed Mamoswine lorem ipsum dolor sit amet Deino. 

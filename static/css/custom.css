@@ -1,4 +1,13 @@
-      h1 {color: #000000;}
+      h3 {
+      font-family: 'Roboto Slab', Georgia, serif;
+      }
+      h2 {
+      font-family: 'Roboto Slab', Georgia, serif;
+      }
+      h1 {
+      color: #000000;
+      font-family: 'Roboto Slab', Georgia, serif;
+      }
       a {color: #003366;}
       a:hover {color: #ff7003;}
       .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
@@ -15,7 +24,7 @@ color: #ff7003;  /*Sets the text hover color on navbar*/
 
       .navbar-default .navbar-brand {
         color: #ff7003;
-        font-size: 21px;
+        font-size: 20px;
         /*color: #777777;*/
       }
 
@@ -50,8 +59,8 @@ color: #ff7003;  /*Sets the text hover color on navbar*/
                }
 
       body {
-        font-family: "Georgia", Georgia, serif;
-        font-size: 17px;
+        font-family: 'Roboto Slab', Georgia, serif;
+        font-size: 16px;
         color: #000000;
         background-color: #ffffff;
         /*background-color: #f1f1f1;*/

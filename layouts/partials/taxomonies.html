@@ -1,8 +1,8 @@
 <br>
-        {{ if .Params.authors }} 
+<!--        {{ if .Params.authors }} 
         <strong><a href="/authors/" style="color:black"><span class="glyphicon glyphicon-edit"></span></a> </strong>{{ range $index, $author := .Params.authors }}{{ if gt $index 0 }}, {{ end }}<a href="/authors/{{ . | urlize }}">{{ . }}</a>{{ end }} |
         {{ end }}
-
+-->
         {{ if .Params.tags }} 
          <strong><a href="/tags/" style="color:black">{{ if gt (len .Params.tags) 1 }}<span class="glyphicon glyphicon-tags"></span></a> {{ else }}</a> <span class="glyphicon glyphicon-tag"></span> {{ end }} </strong>&nbsp;{{ range $index, $tag := .Params.tags }}{{ if gt $index 0 }}, {{ end }}<a href="/tags/{{ . | urlize }}">{{ . }}</a>{{ end }} |
         {{ end }}

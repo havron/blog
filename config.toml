@@ -2,7 +2,7 @@ baseurl = "https://havron.xyz/blog/"
 RelativeURLs = "true"
 canonifyURLs = "true"
 languageCode = "en-us"
-title = "enthusiasm, pensiveness, xyz"
+title = "epx blog"
 theme = "hugo-bootswatch"
 [taxonomies]
 tag = "tags"
