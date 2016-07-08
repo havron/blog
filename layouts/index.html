@@ -2,7 +2,8 @@
 {{ partial "navbar.html" . }}
 
     <div class="container">
-        <h1>{{ .Title }}</h1>
+    <div class="col-sm-7 ">
+        <h1 style="color: #000000;">{{ .Title }}</h1>
         {{ range .Data.Pages }}
         <div>
             <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
@@ -12,6 +13,7 @@
             <p>{{ .Summary }}...</p>
             
             <a href="{{ .Permalink }}"><button type="button" class="btn btn-default"><span class="glyphicon glyphicon-circle-arrow-right"></span> more</button></a>
+        </div>
         </div>
         {{ end }}
 

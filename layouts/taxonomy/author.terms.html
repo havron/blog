@@ -3,13 +3,15 @@
     <div class="container">
 <section id="main">
 <div>
-<h1 id="title"><span class="glyphicon glyphicon-edit"></span> {{ .Title }}</h1>
+        <div class="col-sm-7">
+<h1 style="color: #003366" id="title"><span class="glyphicon glyphicon-edit"></span> {{ .Title }}</h1>
 <ul class="list-unstyled">
 {{ $data := .Data }}
 {{ range $key, $value := .Data.Terms.Alphabetical }}
 <li><span class="glyphicon glyphicon-edit"></span> <a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}">{{ $value.Name }}</a> [{{ $value.Count }}]</li>
 {{ end }}
 </ul>
+</div>
 </div>
 </section>
         {{ partial "container-footer.html" . }}

@@ -2,10 +2,10 @@
 {{ partial "navbar.html" . }}
 
     <div class="container">
-    <h1>all posts with {{ .Data.Singular }} '{{ .Title }}' <span class="glyphicon glyphicon-ok-sign"></span></h1>
+    <div class="col-sm-7 ">
+    <h1>all posts with {{ .Data.Singular }} '{{ lower .Title }}' <span class="glyphicon glyphicon-ok-sign"></span></h1>
 
         {{ range .Data.Pages }}
-        <div>
             <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
             <span class="lead">{{ .Date.Format "Mon 2 January 2006" }}</span>
 {{ partial "taxomonies.html" . }}

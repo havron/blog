@@ -1,5 +1,6 @@
 .PHONY: clean blog_github full_github dev html
 THEME=hugo-bootswatch
+MSG=Rebuilt site blog
 # NOTE: the two github targets assume a specific development environment!
 # Namely, that this repo is located at ~/blog and that the public_web repo 
 # is located at ~/public_web in the filesystem of the dev environment. 
@@ -19,11 +20,11 @@ blog_github:
 	rm -rf ~/public_web/blog/* # env specific
 	cp -r public/* ~/public_web/blog/ # env specific
 	git add -A
-	git commit -m "Rebuilt site"
+	git commit -m "${MSG}"
 	git push
 
 full_github: blog_github
 	cd ~/public_web/ && \
 	git add -A && \
-	git commit -m "Rebuilt site blog" && \
+	git commit -m "${MSG}" && \
 	git push

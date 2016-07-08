@@ -3,6 +3,7 @@
     <div class="container">
 <section id="main">
 <div>
+        <div class="col-sm-7">
 <h1 id="title">{{ .Title }}</h1>
 <ul>
 {{ $data := .Data }}
@@ -10,6 +11,7 @@
 <li><a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}">{{ $value.Name }}</a> [{{ $value.Count }}]</li>
 {{ end }}
 </ul>
+</div>
 </div>
 </section>
         {{ partial "container-footer.html" . }}
