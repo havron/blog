@@ -1,14 +1,15 @@
       h3 {
-      font-family: 'Roboto Slab', Georgia, serif;
+      font-family: 'Vollkorn', Georgia, serif;
       }
       h2 {
-      font-family: 'Roboto Slab', Georgia, serif;
+      font-family: 'Vollkorn', Georgia, serif;
       }
       h1 {
       color: #000000;
-      font-family: 'Roboto Slab', Georgia, serif;
+      font-family: 'Vollkorn', Georgia, serif;
       }
-      a {color: #003366;}
+      code {color: #4CAF50; background-color: #eeeeee; font-weight:bold}
+      a {color: #E86100;} 
       a:hover {color: #ff7003;}
       .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
 color: #ff7003;  /*Sets the text hover color on navbar*/
@@ -59,7 +60,7 @@ color: #ff7003;  /*Sets the text hover color on navbar*/
                }
 
       body {
-        font-family: 'Roboto Slab', Georgia, serif;
+        font-family: 'Vollkorn', Georgia, serif;
         font-size: 16px;
         color: #000000;
         background-color: #ffffff;

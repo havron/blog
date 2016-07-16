@@ -3,16 +3,16 @@
 
     <div class="container">
     <div class="col-sm-6 ">
-        <h1 style="color: #000000;">enthusiasm, pensive-ness, xyz</h1>
+        <h1>meticulousness, abstraction, xyz</h1>
         {{ range .Data.Pages }}
         <div>
-            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-            <span class="lead">{{ .Date.Format "Mon 2 January 2006" }}</span>
+        <h2><a style="color:black" href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <span class="lead">{{ .Date.Format "2 January 2006 (Mon.)" }}</span>
 
 {{ partial "taxomonies.html" . }}
             <p>{{ .Summary }}...</p>
             
-            <a href="{{ .Permalink }}"><button type="button" class="btn btn-default"><span class="glyphicon glyphicon-circle-arrow-right"></span> more</button></a>
+            <a href="{{ .RelPermalink }}"><button type="button" class="btn btn-default"><span class="glyphicon glyphicon-circle-arrow-right"></span> more</button></a>
         {{ end }}
 
         {{ partial "container-footer.html" . }}

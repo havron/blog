@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>max blog</title>
-<link>https://havron.xyz/blog/</link>
-<description>Recent content on max blog</description>
+<title>Opinion on max blog</title>
+<link>https://havron.xyz/blog/categories/opinion/</link>
+<description>Recent content in Opinion on max blog</description>
 <generator>Hugo -- gohugo.io</generator>
 <language>en-us</language>
 <lastBuildDate>Fri, 15 Jul 2016 13:58:27 -0400</lastBuildDate>
-<atom:link href="https://havron.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+<atom:link href="https://havron.xyz/blog/categories/opinion/index.xml" rel="self" type="application/rss+xml" />
 
 <item>
 <title>Welcome, and meta-blogging</title>
@@ -199,7 +199,7 @@ trying read a blog? Well, as the title of this subsection suggests: I include
 the navigation bar because it affords crucial
 &lt;em&gt;usability&lt;/em&gt;. I find that my general enjoyment of using a site starts with
 an easily-accessible means of navigating to important pages, and so
-I have attempted to replicate this principle-for-enjoyment on both the blog and &lt;a href=&#34;./../index.html&#34;&gt;the main
+I have attempted to replicate this principle-for-enjoyment on both the blog and &lt;a href=&#34;../../../index.html&#34;&gt;the main
 site&lt;/a&gt;.
 Furthermore, I experience a small, yet persistent level of discomfort with the complete
 absence of identifying markers such as a navigation bar &amp;ndash;
@@ -224,7 +224,7 @@ I highly encourage all readers whom find the navigation bar&amp;rsquo;s presence
 With such a broad array of topics to blog about (see 2.2.),
 and potentially different audiences for each,
 I decided that organization by tags and categories are currently the best tool available
-to me with which to sort the content I write. It turns out that I do have &lt;a href=&#34;./../search.html&#34;&gt;search
+to me with which to sort the content I write. It turns out that I do have &lt;a href=&#34;../../../search.html&#34;&gt;search
 capabilities on the site&lt;/a&gt;, but the results from major search
 engines are simply not as fast, accurate, or efficient as navigating through
 tags and categories. There is an interesting
@@ -329,7 +329,7 @@ In addition to technically-oriented posts, I may write in a respectful,
 civilized, and open-minded
 manner on religion, popular media, politics, or other very opinionated topics. I
 especially encourage writing comments on opinionated posts; all entries I consider within these
-bounds will be marked with the &lt;a href=&#34;./categories/opinion/&#34;&gt;&lt;code&gt;opinion&lt;/code&gt;&lt;/a&gt; category.
+bounds will be marked with the &lt;a href=&#34;../../categories/opinion/&#34;&gt;&lt;code&gt;opinion&lt;/code&gt;&lt;/a&gt; category.
 On principle, if I have had an experience in which I believe public writing on may benefit the
 general reader, I will write, modulo scheduling (see 3.1.).&lt;/p&gt;
 

@@ -1,67 +1,444 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Posts on epx blog</title>
+<title>Posts on max blog</title>
 <link>https://havron.xyz/blog/post/</link>
-<description>Recent content in Posts on epx blog</description>
+<description>Recent content in Posts on max blog</description>
 <generator>Hugo -- gohugo.io</generator>
 <language>en-us</language>
-<lastBuildDate>Tue, 05 Jul 2016 06:31:50 -0400</lastBuildDate>
+<lastBuildDate>Fri, 15 Jul 2016 13:58:27 -0400</lastBuildDate>
 <atom:link href="https://havron.xyz/blog/post/index.xml" rel="self" type="application/rss+xml" />
 
 <item>
-<title>Test the blog. Hm...</title>
-<link>https://havron.xyz/blog/2016/test-the-blog.-hm.../</link>
-<pubDate>Tue, 05 Jul 2016 06:31:50 -0400</pubDate>
+<title>Welcome, and meta-blogging</title>
+<link>https://havron.xyz/blog/2016/welcome-and-meta-blogging/</link>
+<pubDate>Fri, 15 Jul 2016 13:58:27 -0400</pubDate>
 
-<guid>https://havron.xyz/blog/2016/test-the-blog.-hm.../</guid>
-<description>&lt;p&gt;Sorry, I&amp;rsquo;m not sam, I am an automated post generator.
-Just getting a preliminary post up to the CDN for testing. Run along, now, reader, to some other depths of the web.&lt;/p&gt;
+<guid>https://havron.xyz/blog/2016/welcome-and-meta-blogging/</guid>
+<description>
 
-&lt;p&gt;&lt;strong&gt;Pokem ipsum dolor sit amet Meditite Happiny Missingno Spinda Pokemon The Movie 2000 Mankey. Ice Aerodactyl Flygon Wailord Tail Whip Ice Cobalion. Swift Exeggcute Shieldon Rage Klink Abomasnow Gyarados. Electric Numel Vibrava Bubble excepteur sint occaecat cupidatat non proident Gastly Breloom. Sapphire Strength Nidoran Geodude Raikou Luxio Ultra Ball.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Welcome to my blog. It&amp;rsquo;s not too late to turn back, dear reader&amp;hellip;yet.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Plain Badge Noctowl Goldeen Walrein Ruby Torchic Charmander. Wing Attack Nidoran Meditite Boldore the power that&amp;rsquo;s inside Shuckle Furret. Anim id est laborum Ariados Marill Machop Alomomola Axew Geodude. Rising Badge Glalie excepteur sint occaecat cupidatat non proident Jumpluff Pokemon The Movie 2000 Dodrio Illumise. Glacier Badge Dark Marsh Badge I&amp;rsquo;m on the road to Viridian City Timburr Marowak Smoochum.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://imgs.xkcd.com/comics/blogging.png&#34; alt=&#34;xkcd comic: blogging&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Yellow Darmanitan Throh Donphan Qwilfish Clamperl Mirror Move. Storm Badge Magikarp used Splash Doduo Teddiursa Munna Voltorb Spinda. Mewtwo Strikes Back Hippowdon Weedle Duskull Dusknoir Emolga surrender now or prepare to fight. Boulder Badge Aggron Omastar Serperior Lapras Litwick Tentacruel. Mineral Badge Venusaur Kecleon Graveler Pokedex Fuchsia City Arbok.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;xkcd/741&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Normal Roselia Duosion Dark Hive Badge Fighting Hitmonlee. Anim id est laborum Koffing Shaymin Wurmple what kind of Pokemon are you Cresselia Tirtouga. S.S. Anne Snorlax Cascade Badge Espeon fishing rod Escavalier Tangela. Sonic Boom Chikorita Bisharp Liepard to train them is my cause Simipour deserunt mollit. Johto Roserade Haxorus Piloswine Fire Red Lapras I like shorts.&lt;/p&gt;
+&lt;h4 id=&#34;curiosity-and-participation&#34;&gt;Curiosity and participation&lt;/h4&gt;
 
-&lt;p&gt;Hydro Pump Pidgeotto Snorlax Butterfree to denounce the evils of truth and love Ciccino Chingling. Glitch City Vullaby Scyther Body Slam Sceptile Ampharos Grumpig. Rock Pansear Dratini I know it&amp;rsquo;s my destiny ullamco laboris nisi Relicanth Luxio. Fire Venusaur Igglybuff Kyogre Marowak Weepinbell Abomasnow. Poison Machop Reuniclus Alomomola Herdier Palkia Town Map.&lt;/p&gt;
+&lt;p&gt;I spend a lot of time on &amp;ldquo;the web&amp;rdquo; (and while I appreciate the availability of such
+a seemingly-succinct term, I feel rather guilty by attempting to account for &lt;a href=&#34;http://www.livescience.com/54094-how-big-is-the-internet.html&#34; target=&#34;_blank&#34;&gt;zetta-bytes of
+indexed data&lt;/a&gt;
+ with two 3-letter-1-syllable words).
+ The pages I browse in my leisure are usually interesting enough to keep my
+ attention (admittedly, this is &lt;a href=&#34;https://www.youtube.com/watch?v=TudFAEUkR9Y&#34; target=&#34;_blank&#34;&gt;not too high of a
+ threshold&lt;/a&gt;), and the best content
+ is often free-of-charge. Almost any rote or technical question I have can be answered
+ instantly, and accessing scores of articles, videos, podcasts, forum-threads, and opinion pieces on topics of all kinds in real-time is a given. All controllable at any
+ instant from a device fitting in my pocket, of course. It is increasingly
+ difficult for me &amp;ndash; born in the mid 1990&amp;rsquo;s &amp;ndash; to imagine the lives of
+ those who were not (or are currently not) connected to the vast trove of hyperlinks
+ that many people now rely on (and trust) for nearly everything they do.
+ In exchange for all of this convenience, I must concede much of my
+ privacy, &lt;a href=&#34;https://www.youtube.com/watch?v=_kBlH-DQsEg&#34; target=&#34;_blank&#34;&gt;which is in many ways dead&lt;/a&gt;.
+ Despite this cost, I imagine I would miss the level of connection to the
+ rest of the world which the web &amp;ndash; or a similar construct &amp;ndash; can offer,
+ were it to become permanently inaccessible.&lt;/p&gt;
 
-&lt;p&gt;Pokem ipsum dolor sit amet Doduo Hoothoot Rhyperior Mr. Mime Minccino Heatran. Grass Steelix deserunt mollit Smeargle Purugly Porygon-Z Ciccino. Pika-pi Bonsly Crustle Ash&amp;rsquo;s mother Bagon but nothing happened Roserade. Fighting Water Gun Aipom Gorebyss gym Harden Froslass. Ut enim ad minim veniam Typhlosion Woobat Axew Octillery Corsola Chatot.&lt;/p&gt;
+&lt;p&gt;Occasionally, though, I find myself at a dead-end. &lt;a href=&#34;https://duckduckgo.com&#34; target=&#34;_blank&#34;&gt;DuckDuckGo&lt;/a&gt;
+does not return any results, and &lt;a href=&#34;https://google.com&#34; target=&#34;_blank&#34;&gt;Google&lt;/a&gt; has nothing interesting
+to report, either. After sifting through pages-upon-pages of content, there are no
+ hyperlinks left to be followed in my search for
+ answers. It is often in this situation (and a few select others) when I most
+ acutely recognize that I am undeniably, first-and-foremost, a &lt;em&gt;consumer&lt;/em&gt; of the
+ web. I see nothing inherently wrong with this notion (or with anyone else who
+ identifies in this manner), yet I still feel somewhat troubled. If my
+ experience with the web were analogous to observing a vast, fantastic, and
+ full-of-life formal ball &amp;ndash; yet subsequently declining to participate in a dance with
+ any kind-hearted and well-intentioned person, &lt;em&gt;should I be asked&lt;/em&gt; &amp;ndash; I posit this would be considered quite
+ rude by the other attendees, the requester, and myself. Is this a reasonable
+ analogy with which to encapsulate the entirety of the web and all of its nuances?
+ Probably not (though I suspect any such attempt would necessitate &lt;a href=&#34;https://www.youtube.com/watch?v=xdhLQCYQ-nQ&#34; target=&#34;_blank&#34;&gt;references to cats&lt;/a&gt;).
+ Ultimately, it is not as if the web is a &lt;a href=&#34;https://xkcd.com/364/&#34; target=&#34;_blank&#34;&gt;key-signing party&lt;/a&gt;; I need not
+ participate on the web to freely enjoy its content.&lt;/p&gt;
 
-&lt;p&gt;Wartortle Lucario Wartortle Rising Badge Mime Jr Golbat Klink. Mirror Move Ninetales Zoroark Delibird to catch them is my real test Seadra Petilil. Vermilion City Meditite Abomasnow Dragonite Kabuto Deoxys Happiny. Gold Skuntank Panpour Toxicroak Feraligatr Donphan Red. Gotta catch &amp;lsquo;em all Reshiram Wingull Kangaskhan Ash&amp;rsquo;s mother Sonic Boom Exeggcute.&lt;/p&gt;
+&lt;p&gt;Even so, I begin to think. What can &lt;em&gt;I&lt;/em&gt; do? Do I have any valuable
+ contributions to bring forth to a place in which I spend much of my time?
+ I doubt I will ever be convinced of a definitive answer to this last question,
+ but I start thinking of different approach vectors anyways.
+ A YouTube channel? A Twitch or Twitter live-feed? How about a stack-exchange account? Dare I
+ suggest a budding career as a &amp;ldquo;meme lord&amp;rdquo;? In different ways, I am intrigued by
+ each of these ideas, but I envision a medium more&amp;hellip;enduring. Flexible.
+ Accessible. And so, with many other worthy options available to me, I reached a
+ settlement: a simple text-based web-log will do.&lt;/p&gt;
 
-&lt;p&gt;Venusaur Vanilluxe Xatu Lucario Cottonee Marshtomp Blizzard. Sonic Boom Regice Heracross Swellow Grass Honchkrow Johto. Misty Alomomola Bulbasaur Staraptor Vanillish Kingdra Aron. Bubble Totodile Sandshrew Solrock bicycle Sonic Boom Bubble. Sinnoh Marowak Karrablast Thundershock Electabuzz Ash Sceptile.&lt;/p&gt;
+&lt;p&gt;Prior to writing this post, I have never kept a formal log of my opinions and
+reflections on any material (no journal, no diary, no audio-notes-to-self). Am I capable of doing such a task in a manner pleasing
+to the general reader? Is it possible for me to accurately convey my full thoughts and
+experiences within the boundaries of journalism, or at all for that matter?
+Whether or not I will achieve long-term success in any of these tasks is presently unclear to me,
+and I suppose I will never get a satisfying answer to my curiosities unless I take action.
+And so the blog began to take form, as I write somewhat
+wistfully in &lt;a href=&#34;http://www.vim.org/&#34; target=&#34;_blank&#34;&gt;Vim the editor&lt;/a&gt;, using
+&lt;a href=&#34;https://daringfireball.net/projects/markdown/&#34; target=&#34;_blank&#34;&gt;markdown&lt;/a&gt; syntax and bringing a
+trusty &lt;a href=&#34;http://www.vim.org/scripts/script.php?script_id=131&#34; target=&#34;_blank&#34;&gt;spell-checker&lt;/a&gt;
+in tow (I can assert that many a &lt;code&gt;[s&lt;/code&gt;, &lt;code&gt;zg&lt;/code&gt;, and &lt;code&gt;z=&lt;/code&gt; are being used).&lt;/p&gt;
 
-&lt;p&gt;Velit esse cillum dolore eu fugiat nulla pariatur Koffing Water Celebi Mamoswine Tepig Flygon. Fog Badge Gallade Magmortar Nincada Pokemon The Movie 2000 Aerodactyl the power that&amp;rsquo;s inside. Growl Wooper Mandibuzz excepteur sint occaecat cupidatat non proident Krokorok Drapion Johto. Water Gun Combusken Dustox Drapion Cherubi Heatran Gothita. Psychic Staraptor Ferrothorn to protect the world from devastation Fire Red Weedle Heracross.&lt;/p&gt;
+&lt;h4 id=&#34;before-the-fun-a-disclaimer&#34;&gt;Before the fun, a Disclaimer&lt;/h4&gt;
 
-&lt;p&gt;Qui officia deserunt mollit Snorunt Drifloon Shuckle Psychic Zigzagoon Deoxys. Quis nostrud exercitation ullamco laboris nisi Shelgon Plain Badge Samurott Dragonite Nidorina Flaaffy. Hydro Pump Skiploom Dusclops Spinda Purrloin Golett Zebstrika. Kanto S.S. Anne Mudkip grumpy old man who needs coffee Gastrodon Vanilluxe Ralts. Splash Meowth Rotom Cascade Badge Corphish Togetic Magikarp.&lt;/p&gt;
+&lt;p&gt;The primary driver behind this blog is having fun, and the opportunity for me to write
+about material which I consider amenable to discussion in some context.
+I&amp;rsquo;d like to note that any and all thoughts I now &amp;ndash; or will &amp;ndash; express on this
+blog are &lt;em&gt;not&lt;/em&gt; intended to be
+taken too seriously: my blog and its contents are never meant to be considered
+the workings of a manifesto, hard-set rule-book, or
+any of their ilk. Presently at 20 years of age, I find it very difficult
+to imagine myself creating, understanding, or condoning formal
+stances regarding my existence, purpose, or ability to cast judgment
+(particularly when considering the
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Frontal_lobe&#34; target=&#34;_blank&#34;&gt;frontal lobe&lt;/a&gt; of my brain is a long ways away from reaching full maturity, and my relationship with God is far from adequately explored).
+The blog can certainly change to adapt to events happening in my life, and will
+always be a flexible medium which I expect to grow alongside me.&lt;/p&gt;
 
-&lt;p&gt;Gallade Vullaby Milotic Deerling Poliwag Dewott. Bulbasaur Meloetta Musharna Starmie Kangaskhan Dig Rattata. Leaf Green Delcatty Duosion Dig Tepig Cubone Spheal. Pewter City Nidorino Dugtrio Lanturn Roserade Regirock Smeargle. Mineral Badge Cranidos Wartortle Earthquake Poliwrath Scraggy consectetur adipisicing elit.&lt;/p&gt;
+&lt;p&gt;Before enumerating what I initially believe the blog is intended to be (and to
+not be), I have a few remarks on readability and usability that I feel compelled to discuss.
+You&amp;rsquo;re welcome to skip around at your leisure, as the sections of this post are
+mostly independent of each other&amp;ndash;reading them in the order I placed them in is
+recommended for optimal comprehension, though. Finally, I will mention that this post
+covers a lot of meta-data about the blog, and is not likely to be interpreted
+as very interesting to read in comparison to the content of future posts. (yes,
+it&amp;rsquo;s too late to turn back, the sections are &lt;a href=&#34;https://xkcd.com/899/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;numbered&lt;/em&gt;
+now&lt;/a&gt;&amp;hellip;)&lt;/p&gt;
 
-&lt;p&gt;Normal Dwebble Lumineon Earthquake Sewaddle but nothing happened ullamco laboris nisi. Glitch City Glaceon Whismur Poison Sting Aerodactyl Abra Stunky. Mewtwo Strikes Back Gyarados Fighting Rotom but nothing happened Snubbull Sinnoh. Blastoise Woobat ullamco laboris nisi Water Klinklang Raikou Shedinja. We&amp;rsquo;re blasting off again Darmanitan Palpitoad Venusaur Sawsbuck consectetur adipisicing elit Mineral Badge.&lt;/p&gt;
+&lt;h2 id=&#34;1-styling&#34;&gt;1. Styling&lt;/h2&gt;
 
-&lt;p&gt;Rising Badge Whismur to train them is my cause you&amp;rsquo;re not wearing shorts Gurdurr in voluptate velit esse cillum dolore eu fugiat nulla pariatur Chingling. Zephyr Badge Snorlax Hypno Poke Flute the enemy Pokemon fainted Pokemon, it&amp;rsquo;s you and me Loudred. Pallet Town Fog Badge Bayleef Larvesta Potion Leafeon Reuniclus. Ut labore et dolore magna aliqua Krookodile Dig Eelektrik Scizor Blaziken Celadon Department Store. Sinnoh Rotom The Power Of One Wing Attack Cherubi Dig Bisharp.&lt;/p&gt;
+&lt;h3 id=&#34;1-1-readability&#34;&gt;1.1. Readability&lt;/h3&gt;
 
-&lt;p&gt;Rising Badge lorem ipsum dolor sit amet Bubble Sawk Bidoof the power that&amp;rsquo;s inside Seedot. Red Pawniard Krokorok Ponyta in a world we must defend Furret Tropius. Steel Rhyperior Vaporeon Drowzee Natu Murkrow I like shorts. Blastoise Omanyte Togekiss Finneon Ash Sunflora Tynamo. Sapphire Rufflet Ledian Burmy Dewott Camerupt Sudowoodo.&lt;/p&gt;
+&lt;p&gt;The styling used in this blog is intentionally kept simple in comparison to what I
+have come to expect from most web-based blogs. In general, I will give my attention
+to any media (e.g. text, image, audio, video) that has a positive net value or
+interesting qualities to it, but the styling choices employed by most
+blogs and media sites make the process of lexing, parsing, semantically
+analyzing, and evaluating (interpreting) the pattern of bits which
+illuminate my screen rather strenuous and not enjoyable. However, I am
+not bothered enough by this to cease media consumption altogether; I often
+find the content itself to be interesting and worthwhile, and so I remain
+under the auspices of their styling.&lt;/p&gt;
 
-&lt;p&gt;Charmander Poliwhirl Shaymin Zorua Chingling Genesect Johto. Steel Spinda Tentacruel Zweilous Giovanni Dragonair Dragonite. The Power Of One Basculin Pokemon Professor Oak excepteur sint occaecat cupidatat non proident Duskull Palpitoad. Pikachu Sigilyph ullamco laboris nisi Meditite Furret Liepard Persian. The Power Of One Hoenn Vibrava Golem Ekans Natu Combee.&lt;/p&gt;
+&lt;h4 id=&#34;1-1-1-fonts-and-rendering&#34;&gt;1.1.1. Fonts and Rendering&lt;/h4&gt;
 
-&lt;p&gt;Hitmontop Herdier Beldum Kricketune Mankey Drifblim. Earth Badge Shellder Archeops Rising Badge Plusle Slash Shedinja. Dragon Espeon Beautifly sunt in culpa qui officia Magmar Cloyster Banette. Fire Sandshrew Skuntank Smeargle Rotom Panpour Normal. Zephyr Badge Zekrom Lugia Larvitar Slowbro Seedot Psyduck.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://fonts.google.com/specimen/Vollkorn&#34; target=&#34;_blank&#34;&gt;Vollkorn&lt;/a&gt; (a serif) is the font
+used to render all text on the blog at the time of writing &amp;ndash; according to &lt;a href=&#34;http://friedrichalthausen.de/&#34; target=&#34;_blank&#34;&gt;its
+designer&lt;/a&gt;, the font&amp;rsquo;s name is German for
+&amp;lsquo;wholemeal&amp;rsquo; and is described as &amp;ldquo;bouncing and healthy&amp;rdquo; &amp;ndash; I have not devised my
+own anthropomorphic adjectives for Vollkorn (&amp;hellip;yet). I am overall pleased
+with the current rendering of the blog, and am able to read content with minimal
+discomfort on mobile and desktop; however, I am acutely aware that my
+presentation of text on this page may not be enjoyable for all audiences.  If
+you prefer to read in &lt;a href=&#34;../raw/welcome.txt&#34;&gt;plaintext&lt;/a&gt;, or would like to render
+the &lt;a href=&#34;../raw/welcome.md&#34;&gt;raw markdown&lt;/a&gt; to suit your own optimal viewing
+environment, you will find links to each at the bottom of every post on the blog
+(the plaintext includes all hyperlinks, re-formatted with &lt;code&gt;pandoc&lt;/code&gt; as
+reference-style links).&lt;/p&gt;
 
-&lt;p&gt;Thundershock Leaf Green Entei Pokemon Purugly Skarmory Croagunk. Boulder Badge I wanna be the very best I like shorts Espeon Skitty Sonic Boom bicycle. Flamethrower Pignite Sigilyph I&amp;rsquo;m on the road to Viridian City Klink Minccino Jolteon. Flying Wingull Aipom Granbull Zoroark Trubbish Meloetta. Gotta catch &amp;lsquo;em all Volcano Badge Plusle you&amp;rsquo;re not wearing shorts Vine Whip Prinplup Gible.&lt;/p&gt;
+&lt;p&gt;Settling on color choices for hyperlinks, code snippets, and other pigment-related aspects of the
+blog are perhaps the most difficult commitments for me to make. Out of 16,777,216
+available colors, which do I choose to render in hopes of appeasing the reader
+and providing maximum legibility? Are my blues too dark, my oranges too bright?
+I doubt I will ever be fully-satisfied with the coloring, and anticipate
+it will be perpetually tweaked. I may eventually commit to writing a guide
+with recommendations of different fonts, styling, and legibility considerations
+for rendering content, which could be helpful to readers whom are seeking
+alternatives to browsing the blog as is. It is my utmost goal to provide an
+enjoyable reading experience for all who come to the blog&amp;ndash;I am open to
+suggestions on different styling, fonts, and other typography (e.g. &lt;a href=&#34;http://www.gust.org.pl/projects/e-foundry/tex-gyre&#34; target=&#34;_blank&#34;&gt;TeX
+Gyre&lt;/a&gt; collection and the like). You&amp;rsquo;re
+welcome to send me a &lt;a href=&#34;https://github.com/samuelhavron/blog&#34; target=&#34;_blank&#34;&gt;pull request&lt;/a&gt; or leave comments.&lt;/p&gt;
 
-&lt;p&gt;Volcano Badge Ice Rage Roselia Quilava Skiploom Zangoose. Dark Kadabra Slowbro Skorupi Rotom Mismagius Solrock. Blizzard Uxie Slowking Viridian City Ninetales Chansey Marsh Badge. Razor Leaf the power that&amp;rsquo;s inside Caterpie Poke Flute Nidoking you teach me and I&amp;rsquo;ll teach you Officer Jenny. Charizard Deino Medicham Hidden Machine Growl Magikarp Corphish.&lt;/p&gt;
+&lt;h4 id=&#34;1-1-2-embedded-content-and-external-sources&#34;&gt;1.1.2. Embedded Content and External Sources&lt;/h4&gt;
 
-&lt;p&gt;Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle of an immense dark sphere, whose upper half was strewn with silver. Looking down into the dark gulf below, I could see a ruddy light streaming through a rift in the clouds.
-Body Slam Croconaw Rotom Lairon Boldore Nidoran Officer Jenny. Wartortle Venipede Fuchsia City Fog Badge Munna Quagsire Plusle. Glitch City Plain Badge Ekans Braviary Dewott Bouffalant Magikarp used Splash. Teleport Miltank Houndoom Furret Sealeo Crustle Pallet Town. Dark Magby Blissey Wormadam Ledyba Machoke Cascade Badge.&lt;/p&gt;
+&lt;p&gt;The readability of a page further depends upon, to my eyes, the presence and
+placement of embedded, non-textual media such as photographs or video (&lt;a href=&#34;https://xkcd.com/1301/&#34; target=&#34;_blank&#34;&gt;I am looking at you,
+GIFs&lt;/a&gt;.). Communicating my thoughts through media other than text will be done sparingly, and often be linked-to content rather than embedded, despite the ease of embedding
+images, audio, and video on the blog. I prefer to maintain a sense of continuity
+in the medium I am using to convey myself; disrupting its flow without good
+reason is decidedly unpleasant. I believe I feel this way in part
+due to my inclination to open embedded content at its (external) source
+rather than on the page itself. In defense of embedded content, seeing excerpts of
+quoted text from an external source or including a well-placed image is perfectly
+reasonable to me (perhaps you will see &amp;ndash; or &lt;em&gt;have seen&lt;/em&gt; &amp;ndash; instances of
+both in this very post&amp;hellip;odd&amp;hellip;). I genuinely do not mind experiencing
+non-textual media, and often &lt;em&gt;enjoy&lt;/em&gt; the content when it is either befitting or adds a
+layer to the content consumption which the original medium is inadequately suited to
+serve &amp;ndash; the subtlety that an external link provides to-this-end is a nicety.&lt;/p&gt;
 
-&lt;p&gt;Slash Crobat Archeops Slugma Starly Tyrogue Kecleon. Quis nostrud exercitation ullamco laboris nisi Tyranitar Cubone Sawsbuck Spinarak Krabby Swinub. Anim id est laborum Bastiodon Running Shoes Dome Fossil Watchog Sandile they&amp;rsquo;re comfy and easy to wear. Leech Life Carracosta Officer Jenny Raikou Seadra Dragonite Espeon. Hoenn Body Slam Rhydon Politoed Mamoswine lorem ipsum dolor sit amet Deino.&lt;/p&gt;
+&lt;h3 id=&#34;1-2-usability&#34;&gt;1.2. Usability&lt;/h3&gt;
 
-&lt;p&gt;super secret test&amp;hellip;
-will embedding the reddit comments section work?
-amazing.&lt;/p&gt;
+&lt;h4 id=&#34;1-2-1-navigation&#34;&gt;1.2.1. Navigation&lt;/h4&gt;
+
+&lt;p&gt;As you may have noticed, on the navigation links I provide &amp;ndash; either on the top
+right of the page for desktop users, or in draw-table fashion from the
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Hamburger_button&#34; target=&#34;_blank&#34;&gt;hamburger button&lt;/a&gt; for mobile
+users &amp;ndash; all of the options contain only two characters. It may seem rather
+foolish to use such little space when a much wider screen real-estate is
+available. Initially, I spelled out each navigation link as follows:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;| blog home | categories | tags | contact me | main site |
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;During earlier designs of the blog, this format appeared to render quite nicely
+&amp;ndash; that is, until I made the mistake of attempting to read text on the page.
+It became immediately apparent on
+the desktop view that spelling out each link made for a very distracting reading
+environment. The bright white color of the links certainly did not help this predicament
+any, so a simpler approach is what you see now. &lt;code&gt;ls&lt;/code&gt;, ~naturally~, is short for
+&lt;code&gt;list&lt;/code&gt; (as in, &amp;ldquo;list all of the blog entries&amp;rdquo;; it&amp;rsquo;s a &lt;a href=&#34;https://xkcd.com/1508/&#34; target=&#34;_blank&#34;&gt;Unix thing&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Why have a navigation bar at all, then? Isn&amp;rsquo;t its mere existence at the heart of
+my dissatisfaction with encountering distracting, eye-arresting content while
+trying read a blog? Well, as the title of this subsection suggests: I include
+the navigation bar because it affords crucial
+&lt;em&gt;usability&lt;/em&gt;. I find that my general enjoyment of using a site starts with
+an easily-accessible means of navigating to important pages, and so
+I have attempted to replicate this principle-for-enjoyment on both the blog and &lt;a href=&#34;../../index.html&#34;&gt;the main
+site&lt;/a&gt;.
+Furthermore, I experience a small, yet persistent level of discomfort with the complete
+absence of identifying markers such as a navigation bar &amp;ndash;
+however subtly I &lt;em&gt;do&lt;/em&gt; in fact prefer them to appear.
+And that is how the navigation bar (and its contents) came to be.&lt;/p&gt;
+
+&lt;p&gt;My largest regret in including a navigation bar actually has nothing to do with
+readability, and yet it bothers me deeply: for readers using a mouse
+on the desktop view of the site, the navigation bar has little respect for &lt;a href=&#34;https://en.wikipedia.org/wiki/Fitts%27s_law&#34; target=&#34;_blank&#34;&gt;Fitts&amp;rsquo;
+Law&lt;/a&gt; in the context of affording accessibility
+between navigation links and blog posts themselves; it is a tremendous flaw that
+is (requisite?) payment for having a more distraction-free reading environment &amp;ndash; at least
+until I can devise
+a better solution. I thereby elect to use the touch-screen capability of my laptop
+computer to invoke hyperlinks, rather than suffer my self-imposed penalty of
+mishandling Fitts&amp;rsquo; Law.
+I highly encourage all readers whom find the navigation bar&amp;rsquo;s presence or interactions distracting to render the &lt;a href=&#34;../raw/welcome.md&#34;&gt;raw markdown&lt;/a&gt; in an environment which pleases them.&lt;/p&gt;
+
+&lt;h4 id=&#34;1-2-2-organization&#34;&gt;1.2.2. Organization&lt;/h4&gt;
+
+&lt;p&gt;There actually isn&amp;rsquo;t a whole lot to say on this aspect of the site.
+With such a broad array of topics to blog about (see 2.2.),
+and potentially different audiences for each,
+I decided that organization by tags and categories are currently the best tool available
+to me with which to sort the content I write. It turns out that I do have &lt;a href=&#34;../../search.html&#34;&gt;search
+capabilities on the site&lt;/a&gt;, but the results from major search
+engines are simply not as fast, accurate, or efficient as navigating through
+tags and categories. There is an interesting
+&lt;a href=&#34;https://gist.github.com/sebz/efddfc8fdcb6b480f567&#34; target=&#34;_blank&#34;&gt;Gist on GitHub&lt;/a&gt; suggesting a
+client-side script which will index, and, upon entering search terms, retrieve posts by leveraging
+regular expressions&amp;ndash;did I mention that this blog is intentionally deployed
+statically, and as such no tasks can be
+delegated server-side? You also may have noticed that I start indexes for each section of
+this post at &amp;lsquo;1&amp;rsquo; and not &amp;lsquo;0&amp;rsquo;. Will I &amp;nbsp;&lt;a href=&#34;https://xkcd.com/163/&#34; target=&#34;_blank&#34;&gt;regret this
+decision&lt;/a&gt; in the future?
+Probably. It&amp;rsquo;s nothing &lt;code&gt;sed&lt;/code&gt; can&amp;rsquo;t handle if needed, though. Lastly, a keen reader
+familiar with the university I attend for undergraduate studies will notice that
+some of the organization, and in fact content for this very post is inspired by
+&lt;a href=&#34;https://www.cs.virginia.edu/tychonievich/blog/&#34; target=&#34;_blank&#34;&gt;Luther&amp;rsquo;s Meanderings&lt;/a&gt;, a blog which I
+enjoy reading and highly recommend as a source of interesting, qualitative content.&lt;/p&gt;
+
+&lt;p&gt;Overall, is it reasonable for me to assume that my own values and preferences for
+readability and usability as noted above should be fully-embraced by others whom are reading
+the blog, in part, for the opportunity to experience my content through a
+personal, natural lens?
+I am genuinely unsure.&lt;/p&gt;
+
+&lt;h2 id=&#34;2-what-is-max-blog&#34;&gt;2. What is max blog?&lt;/h2&gt;
+
+&lt;h3 id=&#34;2-1-naming&#34;&gt;2.1. Naming&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://imgs.xkcd.com/comics/what_xkcd_means.png&#34; alt=&#34;xkcd comic: what does the name mean? 207&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;xkcd/207&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;2-1-1-why-use-a-name&#34;&gt;2.1.1. Why use a name?&lt;/h4&gt;
+
+&lt;p&gt;Does a personal blog need to have a name? Could there exist biased identities,
+relations, or constructs which I implicitly claim to associate with or represent
+by dedicating a name to the blog? I do not believe that creating such
+a label is at all necessary for my use case&amp;ndash;so why give the blog a name?
+According to &lt;a href=&#34;https://en.wikipedia.org/wiki/Name&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;, there are three common
+uses for the term:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;In the ancient world, names were thought to be extremely powerful
+and to act, in some ways, as a
+separate manifestation of a person or deity. This viewpoint is responsible
+both for the reluctance to use the proper name of God in Hebrew writing or
+speech, as well as the common understanding in ancient magic that magical
+rituals had to be carried out &amp;ldquo;in [someone&amp;rsquo;s] name&amp;rdquo;. In the Old Testament, the
+names of individuals are meaningful, and a change of name indicates a change
+of status.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A name for a brand or product is heavily influenced by marketing research
+and strategy to be appealing and marketable. The brand name is often a
+neologism or pseudoword.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A name is a term used for identification. Names can identify a class or
+category of things, or a single thing, either uniquely, or within a given
+context.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I have yet to establish a formal stance on each of these definitions, and whether or not
+any of them are applicable in any part to my personal blog. I certainly do not consider
+ the name to be associated with a particular religion or be indicative of any status or title,
+ nor do I desire to advertise or market it (see 2.3.).
+It seems to follow that &amp;ldquo;max blog&amp;rdquo; is more-or-less in line with the 3rd definition.
+I feel dissatisfied with the lack of my own formal definition which
+uniquely fits what I believe are my intentions, but I will
+resign to the given 3rd definition for the time being.&lt;/p&gt;
+
+&lt;p&gt;Lastly, I hold no definitive or reasonable argument for why there may be net value or
+benefit to collectively referring to these text files as &amp;ldquo;max blog&amp;rdquo;.
+At the very least, I do not &lt;em&gt;intend&lt;/em&gt; to deceive readers or claim I accurately represent
+a subset of the words &amp;ldquo;meticulousness, abstraction, xyz&amp;rdquo; in any satisfying or verifiable manner.
+I believe it is too early to know the answers to most of my own questions on
+the subject. Perhaps, though, I take the idea of a name far too seriously&amp;hellip;&lt;/p&gt;
+
+&lt;h4 id=&#34;2-1-2-max&#34;&gt;2.1.2. &amp;ldquo;max&amp;rdquo;&lt;/h4&gt;
+
+&lt;p&gt;As for the terms themselves, I attribute much of my knowledge
+of computer science to learning how to think with and recognize meticulous behavior, and
+to discovering the affordances of abstraction, a construct with which many different
+levels of detail come together to form a cohesive and often elegant stack&amp;ndash;
+I intend to write blog entries with these core principles in mind, particularly
+with entries more technical in nature. &amp;ldquo;xyz&amp;rdquo; is a
+not-so-cleverly-disguised reference to the gTLD upon which this blog resides at
+the time of writing (somewhere in the depths of Amazon Cloudfront and S3); &amp;ldquo;xyz&amp;rdquo; is also intended to imply &amp;ldquo;and everything else&amp;rdquo;
+when read in conjunction with the former two terms (a &lt;a href=&#34;https://en.wikipedia.org/wiki/Kleene_star&#34; target=&#34;_blank&#34;&gt;Kleene
+star&lt;/a&gt; is
+suitable here as well). The ordering of the
+initials was entirely due to the coherent word &amp;ldquo;max&amp;rdquo; that forms given the
+arrangement. Perhaps the name of the blog will eventually change, disappear, or stay for
+an indefinite amount of time. My goal in this respect remains to provide a descriptor
+of the blog which is not in any manner deceiving or inaccurate to the reader.&lt;/p&gt;
+
+&lt;h3 id=&#34;2-2-the-blog-is&#34;&gt;2.2. The blog is&lt;/h3&gt;
+
+&lt;p&gt;primarily a place for me to respectfully express my own thoughts and
+curiosities to the general reader on
+any material &amp;ndash; be it external, or original &amp;ndash; which I either find intriguing,
+important to discuss, and/or worth the reader&amp;rsquo;s attention.
+In addition to technically-oriented posts, I may write in a respectful,
+civilized, and open-minded
+manner on religion, popular media, politics, or other very opinionated topics. I
+especially encourage writing comments on opinionated posts; all entries I consider within these
+bounds will be marked with the &lt;a href=&#34;../categories/opinion/&#34;&gt;&lt;code&gt;opinion&lt;/code&gt;&lt;/a&gt; category.
+On principle, if I have had an experience in which I believe public writing on may benefit the
+general reader, I will write, modulo scheduling (see 3.1.).&lt;/p&gt;
+
+&lt;p&gt;In addition, I aim to be cognizant of relevant, reported news at the time of
+writing posts as a factor to posting respectful writing.
+If you are reading this entry at or shortly after the time of publication, you are probably
+aware of the many protests currently happening across the United States
+in response to the deaths and treatment of both black citizens and state police
+officers (&lt;a href=&#34;https://cdn.theatlantic.com/assets/media/img/notes/2016/07/RTSH3XR/lead_large.jpg&#34; target=&#34;_blank&#34;&gt;this
+image&lt;/a&gt; by Reuter&amp;rsquo;s Jonathan Bachman is particularly striking);
+the country&amp;rsquo;s two major political parties are due to hold their respective
+national conventions very soon (in which candidates for U.S. Presidency are formally
+nominated); the augmented-reality industry is (possibly) at our footsteps
+ with the recent release of the iOS and Android application &amp;lsquo;Pok&amp;eacute;mon GO&amp;rsquo;; countless other
+ events of interest are being discussed by the general public (or not at all) in
+ the U.S. and across the world.
+I do not intend to address most current news in any reasonable manner, but I
+do intend to be cognizant of it when writing.&lt;/p&gt;
+
+&lt;p&gt;On the technical side of things, I aim to write about my academic interests and
+inquiries, and communicate ideas and thoughts on relevant academic publications
+and material. I hope to invite qualitative discussion from readers on my technical
+posts; each entry I consider technical in nature will have the &lt;code&gt;technical&lt;/code&gt; category label.
+I am also open to collaborative authorship on technical blog posts&amp;ndash;please
+contact me if you are interested in this.&lt;/p&gt;
+
+&lt;p&gt;As mentioned previously in the blog&amp;rsquo;s disclaimer, I do expect the blog to grow
+and change as I do. I can also imagine the necessity of maintaining strictly
+separate blogs for opinionated and technical content. If you are particularly
+inclined to see this change, you are welcome to comment or contact me.&lt;/p&gt;
+
+&lt;h3 id=&#34;2-3-the-blog-is-not&#34;&gt;2.3. The blog is not&lt;/h3&gt;
+
+&lt;p&gt;a place for blatant/explicit self-advertising or self-promotion. I have little
+interest in spreading word of my blog or its posts without holding good reason,
+nor to write about myself in a manner of qualification or suggestion of suitability
+for a particular paid role or opportunity.
+In the context of sharing or spreading word of a particular blog post I have
+written, a &amp;ldquo;good reason&amp;rdquo; means I believe that sharing such content is directly helpful
+to the recipient at the expenditure of their time, and that I believe I am not
+sharing such a post with explicit self-promotion in mind.
+I do not take any issue with those whom find, read, and subsequently recommend or share the
+blog on their own, nor do I have any issue with those whom directly ask me
+about my blog and its contents. You are welcome to do any of those things as you
+see fit. Keep in mind the &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/4.0/&#34; target=&#34;_blank&#34;&gt;CreativeCommons
+license&lt;/a&gt; at the bottom of this post.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, the blog is not a place for hateful, disrespectful, maligned, or discriminatory
+content or discussion of any kind (either from myself or from readers). Please contact me
+if you believe I may have written insensitive content, so that I may rectify it
+and/or open discussion for it at length in a respectful manner with an appropriate audience.
+I have no intention of offending my readers, and I value any feedback you may
+have for me in this context.&lt;/p&gt;
+
+&lt;p&gt;I will not publish content that I consider to have little value to my
+readers and myself; this includes sponsored advertisements to for-profit
+organizations. Appropriate non-profit organizations or causes which are
+pertinent to the subject of my writing are welcome to a reference or
+potential recommendation from me, provided that including such information
+may be helpful to the reader.&lt;/p&gt;
+
+&lt;p&gt;To the best of my ability, these are the qualities of the blog I intend to keep.
+Other suggestions are welcome in the comments&amp;ndash;this is a highly flexible,
+amendable set of qualities.&lt;/p&gt;
+
+&lt;h2 id=&#34;3-welcome-again&#34;&gt;3. Welcome, again&lt;/h2&gt;
+
+&lt;h3 id=&#34;3-1-schedule&#34;&gt;3.1. Schedule&lt;/h3&gt;
+
+&lt;p&gt;To be frank, I do not have a set schedule for publishing posts. I would like to write on some
+order of a bi-weekly or monthly basis, though I do not consider myself beholden to
+arbitrary quotas if it comes at the expense of content quality and purpose.
+Similarly, I will not write on a topic longer than is needed to communicate my
+full thoughts &amp;ndash; I can imagine, however, needing to redress a topic or return to
+a topic in which I have more meaningful and relevant words to write about. Will
+every post be of similar length to this one? Probably not at all&amp;hellip;but I suspect several
+posts in the future will be even longer.
+If there is a particular topic of interest or piece of published content which
+you would like to see a blog post on here, including my full thoughts on
+the material, you are welcome to contact me!
+(this could be silly in nature, a research-oriented topic, a difficult moral
+or ethical situation, or anything in between; as long as you
+believe that my writing on such material would be
+beneficial to you and the general blog reader.)&lt;/p&gt;
+
+&lt;h3 id=&#34;3-2-the-reader-and-preview&#34;&gt;3.2. The Reader, and Preview&lt;/h3&gt;
+
+&lt;p&gt;Would maintaining an e-mail notification list or similar construct to alert subscribers of a new
+post be useful for the ardent reader?
+Perhaps, but part of me does not like the idea of announcing the presence of new
+content, as if to suggest that my writing has a priority to be read &amp;ndash; an
+implicit assertion or claim that the best use of a person&amp;rsquo;s time and attention
+is to consume the content I created.
+I am more fond of the idea that those whom want to read the blog do so of their
+own volition and initiative.
+Thank you for expending your personal time to scan and interpret the 4101
+words I typed (yes, I had to increment that number by the virtue of typing
+it out. What a fun bug that could be in a program!). Regardless of whether
+or not you agreed with or enjoyed the content, I do appreciate those whom read in
+earnest to-the-end.&lt;/p&gt;
+
+&lt;p&gt;If you have made it this far, thanks for reading! I am aware that this post
+may come across as rather boring&amp;hellip;but I am pleased nonetheless to have
+communicated relevant meta-data about the blog. Stay tuned for more
+inherently interesting (and fun!) posts that I look forward to writing.&lt;/p&gt;
+
+&lt;p&gt;Up next: discussion of a paper recently published in the &lt;a href=&#34;http://www.ieee-security.org/TC/SP2016/index.html&#34; target=&#34;_blank&#34;&gt;37th IEEE
+S&amp;amp;P symposium&lt;/a&gt; which I find amenable to qualitative discussion, or at least
+amenable to the enumeration of my own thoughts.&lt;/p&gt;
 </description>
 </item>
 

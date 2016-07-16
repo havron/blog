@@ -2,7 +2,7 @@ baseurl = "https://havron.xyz/blog/"
 RelativeURLs = "true"
 canonifyURLs = "true"
 languageCode = "en-us"
-title = "epx blog"
+title = "max blog"
 theme = "hugo-bootswatch"
 [taxonomies]
 tag = "tags"
@@ -19,4 +19,6 @@ post = "/:year/:title/"
 copyright = "Unless otherwise specified by the author, this work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License."
 [author]
 name = "Samuel Havron"
-
+[blackfriday]
+plainIDAnchors = true
+hrefTargetBlank = true
